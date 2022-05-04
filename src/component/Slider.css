@@ -1,0 +1,26 @@
+.Slider {
+    width: calc(60vw - 100px);
+    margin: 0
+}
+
+.slider-label {
+    width: 260px;
+    padding-right: 20px;
+    display: inline-block;
+}
+
+.slider-value-text {
+    width: 100px;
+    display: inline-block;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.slider-state-normal {
+    color: white;
+}
+
+.slider-state-predict {
+    color: greenyellow;
+}
